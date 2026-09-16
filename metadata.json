@@ -1,0 +1,6 @@
+{
+  "name": "Novel Hindi TTS Reader",
+  "description": "Distraction-free novel reader with chapter extraction, natural Hindi translation, and 0.5x–5.0x Hindi TTS audio player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
